@@ -1,1 +1,1 @@
-# MyFirstQtGame
+# Archery Game
